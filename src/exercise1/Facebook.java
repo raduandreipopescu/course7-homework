@@ -21,6 +21,6 @@ public class Facebook implements AdvertiseServiceProvider {
 
     @Override
     public void doAdvertise() {
-        System.out.println("You ads were seen on Facebook by 1 million people! Great!");
+        System.out.println("Your ads were seen on Facebook by 1 million people! Great!");
     }
 }
